@@ -1,6 +1,7 @@
 # Hi, There 🖐️
 
 I'm **tagokoro**
+
 Web Developer / Technical College Student
 
 ## 🚀 About Me
