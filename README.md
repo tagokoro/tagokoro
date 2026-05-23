@@ -27,8 +27,7 @@ Web Developer / Technical College Student
 ## 🏆 Competitive Programming
 
 ### AtCoder
-
-[![AtCoder](https://img.shields.io/badge/AtCoder-Profile-blue?style=flat)](https://atcoder.jp/users/tagokoro)
+[![AtCoder Rating](https://atcoder-disp-graph.tra.earth/disp-rate/tagokoro?contest-type=algo&graph-type=status)](https://atcoder.jp/users/tagokoro)
 
 
 ## 📊 GitHub Stats
