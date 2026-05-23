@@ -6,6 +6,14 @@ Web Developer / Technical College Student
 
 ## 🚀 About Me
 
+## 💻 Development Environment
+
+* OS: macOS
+* Editor: VSCode,Neovim
+* Terminal: Ghostty
+* Keyboard: ZaruBall
+
+
 * 🌱 Currently learning
 
   * AWS
