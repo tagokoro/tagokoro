@@ -1,17 +1,41 @@
-## Hi there 👋
+# Hi, There 🖐️
 
-<!--
-**tagokoro/tagokoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **tagokoro**
+Web Developer / Technical College Student
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->!
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tagokoro)](https://github.com/anuraghazra/github-readme-stats)
+* 🌱 Currently learning
+
+  * AWS
+  * System Programming with Rust
+
+* 💻 Interested in
+
+  * Backend Development
+  * Algorithms
+
+## 🛠️ Languages
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat\&logo=ruby\&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat\&logo=cplusplus\&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat\&logo=rust\&logoColor=white)
+
+## 🏆 Competitive Programming
+
+### AtCoder
+
+[![AtCoder](https://img.shields.io/badge/AtCoder-Profile-blue?style=flat)](https://atcoder.jp/users/tagokoro)
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tagokoro\&show_icons=true\&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tagokoro\&layout=compact)
+
+---
+
+Thanks for visiting my profile.
