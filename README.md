@@ -4,8 +4,6 @@ I'm **tagokoro**
 
 Web Developer / Technical College Student
 
-## 🚀 About Me
-
 ## 💻 Development Environment
 
 * OS: macOS
@@ -13,6 +11,7 @@ Web Developer / Technical College Student
 * Terminal: Ghostty
 * Keyboard: ZaruBall
 
+## 🚀 About Me
 
 * 🌱 Currently learning
 
