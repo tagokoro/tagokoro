@@ -14,14 +14,12 @@ Web Developer / Technical College Student
 ## 🚀 About Me
 
 * 🌱 Currently learning
-
+  * Backend Development
   * AWS
   * System Programming with Rust
 
 * 💻 Interested in
-
-  * Backend Development
-  * Algorithms
+  * ML
 
 ## 🛠️ Languages
 
