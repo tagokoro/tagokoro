@@ -10,6 +10,7 @@ Web Developer / Technical College Student
 * Editor: VSCode,Neovim
 * Terminal: Ghostty
 * Keyboard: ZaruBall
+* AIAgent: Codex(GPT Plus)
 
 ## 🚀 About Me
 
