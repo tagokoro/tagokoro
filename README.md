@@ -31,9 +31,8 @@ Web Developer / Technical College Student
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat\&logo=rust\&logoColor=white)
 
 ## 🏆 Competitive Programming
-
-[![AtCoder](https://atcoder-badges.vercel.app/api/atcoder/json/tagokoro)](https://atcoder.jp/users/tagokoro)
-
+[![Rating](https://badgen.org/img/atcoder/tagokoro/rating/algorithm?style=plastic)](https://atcoder.jp/users/tagokoro?contestType=algo)
+[![Rating(Heuristic)](https://badgen.org/img/atcoder/tagokoro/rating/heuristic?style=plastic)](https://atcoder.jp/users/tagokoro?contestType=heuristic)
 
 ## 📊 GitHub Stats
 
