@@ -34,8 +34,3 @@ Web Developer / Technical College Student
 [![Rating](https://badgen.org/img/atcoder/tagokoro/rating/algorithm?style=plastic)](https://atcoder.jp/users/tagokoro?contestType=algo)
 [![Rating(Heuristic)](https://badgen.org/img/atcoder/tagokoro/rating/heuristic?style=plastic)](https://atcoder.jp/users/tagokoro?contestType=heuristic)
 
-## 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tagokoro)](https://github.com/anuraghazra/github-readme-stats)
-
-
-Thanks for visiting my profile.
